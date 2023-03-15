@@ -1,3 +1,11 @@
+---
+title: R function
+author: minsu
+date: 2023-03-15 14:15:00 +0900
+categories: [R, Basic]
+tags: ["DataCamp"]
+---
+
 # R function
 
 # lapply()
